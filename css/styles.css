@@ -1,0 +1,369 @@
+
+/***********tag selection**********/
+a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  font-family: 'Rubik', sans-serif;  text-align: center;
+
+}
+
+a:hover {
+  color: #54BAB9;
+}
+body {
+  line-height: 2;
+  text-align: center;
+  direction: rtl;
+  font-family: 'Rubik', sans-serif;  text-align: center;
+}
+div {
+  background-color: #C4DFAA;
+}
+hr {
+  border-color: green;
+  border-style: dotted none none;
+  border-width: 12px;
+  height: 2px;
+  width: 10%;
+  margin: 50px auto 50px auto;
+}
+img.animated-gif{
+  width: 5%;
+  position: relative;
+  top: 10px;
+  height: auto;
+}
+li {
+  width: 30%;
+  margin: auto auto 5px auto;
+  font-family: 'Rubik', sans-serif;  text-align: center;
+}
+p {
+  font-size: 1.5rem;
+}
+
+
+/*
+img:hover {
+  background-color: gold;
+}
+*/
+
+h1 {
+  color: #898AA6;
+
+  margin-top: 0;
+  font-family: 'Rubik', sans-serif;  text-align: center;
+}
+h2 {
+  font-weight: bold;
+  color: 3F4E4F;
+  font-family: 'Suez One', serif;
+  padding: 10px;
+
+}
+h3 {
+  font-family: 'Rubik', sans-serif;  text-align: center;
+}
+h4 {
+  font-family: 'Rubik', sans-serif;  text-align: right;
+
+}
+h5 {
+  font-size: 50px;
+  font-family: 'Rubik', sans-serif;  text-align: center;
+}
+
+span.boom {
+  text-decoration:  underline;
+  color:#809A6F;
+}
+
+/***********class selection**********/
+.bg-white {
+  background-color: #F7ECDE;
+
+}
+.bottom {
+  background-color: magenta;
+  height: 160px;
+  margin: 10px;
+  padding: 20px;
+  width: 160px;
+}
+.circle {
+  width: 30% ;
+  margin:auto;
+  position: relative;
+  border-radius: 100%;
+}
+.carousel-item {
+}
+.carouselExampleSlidesOnly{
+background-color: #F7ECDE;
+
+}
+.div-two {
+  background-color: #CEE5D0;
+
+}
+.div-tree {
+  background-color: #A8A4CE;
+text-align: center;
+}
+.elementor-icon-box-description {
+  line-height: 1;
+}
+.ezot {
+  width: 30%;
+  margin: auto;
+}
+.video-one {
+  position: relative;
+  right: 400px;
+}
+.sirton {
+  text-align: center;
+  padding-left: 40px;
+  background-color: #CEE5D0;
+
+}
+.first {
+  height: 200px;
+  border-radius: 100%;
+}
+.haluka-box {
+  text-align: center;
+  padding: 5% 13%;
+}
+.haver {
+  font-weight: bold;
+  a:hover color: #54BAB9;
+}
+.haver2 {
+  a:hover color: #54BAB9;
+  font-size: 3rem;
+  font-family: 'Rubik', sans-serif;
+
+}
+
+.joker-box {
+  text-align: center;
+  width: 20%
+  padding: 5% 13%;
+  background-color: #A8A4CE;
+  margin:0;
+}
+.list-unstyled{
+  font-size: 1.3rem;
+}
+.second {
+  height: 200px;
+  border-radius: 100%;
+}
+/**
+.ahuz {
+position: absolute;
+left:100px;
+top: 100px;
+width: 10%;
+}
+.trapez {
+  position: absolute;
+  right:150px;
+  top: 200px;
+  width: 10%;
+}
+.triangle {
+  position: absolute;
+  left:250px;
+  top: 200px;
+  width: 10%;
+}
+
+.makbilit {
+  position: absolute;
+  width: 10%;
+  top:90px;
+  right: 325px;
+}
+*/
+
+
+/* navigation bar */
+.navbar-brand{
+  font-weight: bold;
+  font-size: 2.5rem;
+
+
+}
+.nav-item{
+  padding: 0 18px;
+  font-size: 1.5rem;
+  line-height: 1;
+  padding-bottom:  40px
+
+
+}
+.footer-link {
+
+  text-decoration: none;
+  color:black;
+  margin: 5px 25px ;
+}
+.kidai {
+  width: 30%;
+  margin: auto;
+}
+.heading {
+  color: #3F4E4F;
+  font-size: 100px;
+  text-align: center;
+  margin-bottom: 0;
+}
+.head {
+  margin: 0 auto 0 auto;
+  text-align: center;
+}
+.inst {
+  background-color: green;
+}
+.maze-two {
+  width: 50%;
+  font-size: 1rem;
+  text-align: right;
+  margin:auto;
+  line-height: 1.5;
+}
+
+.middle {
+  background-color: skyblue;
+  height: 160px;
+  margin: 10px;
+  padding: 20px;
+  width: 160px;
+}
+.kartinka {
+  width: 20%;
+  margin:auto;
+
+  border-radius: 100%;
+}
+.kartinka-two {
+  width: 50%;
+  margin:auto;
+  text-align: center;
+}
+.percents-img {
+  width: 7%;
+  margin-top: 10px;
+  text-align: center;
+}
+.pizkale {
+  font-size: 0.75rem;
+  margin:0;
+
+}
+.lemi {
+width: 40%;
+margin: auto;
+padding: 50px;
+}
+.top {
+  background-color: №F5F0BB;
+  width: 100%;
+
+}
+.btn5 {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Rubik', sans-serif;  text-align: center;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.nav-toggler {
+      text-align: left;
+}
+
+.btn:hover {
+  background: #377D71;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.btn2 {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Rubik', sans-serif;  text-align: center;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn2:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.yafe {
+text-decoration: none;
+font-size: 1.5rem;
+font-family: 'Suez One', serif;
+color: #635666;
+
+  }
+.div-yafe {
+  color: #A084CF;
+  padding: 40px auto;
+}
+.question {
+
+}
+.zuz {
+  margin-right: 10px;
+  text-align: right;
+  padding: 20px;
+}
+#navbar {
+  background-color: #C4DFAA;
+}
+#finito {
+  padding: 50px 0px 50px 0px;
+  font-family: 'Suez One', serif;
+font-size: 4rem;
+font-weight: bold;
+}
+#carouselExampleSlidesOnly {
+  width: 25%;
+  position: relative;
+  right: 490px;
+  bottom: 25px;
+  background-color: #C4DFAA;
+}
